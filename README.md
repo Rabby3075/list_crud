@@ -1,16 +1,7 @@
 # list_crud
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ss1](https://github.com/Rabby3075/list_crud/assets/65245815/1ae5a2c6-cd77-4a6b-80a8-50a4daa71f8a)
+![ss2](https://github.com/Rabby3075/list_crud/assets/65245815/40c36a87-8e60-4c53-a01b-656560093ff2)
+![ss3](https://github.com/Rabby3075/list_crud/assets/65245815/df723b8d-71db-4b9f-bbaf-59789f873948)
+![ss4](https://github.com/Rabby3075/list_crud/assets/65245815/8a283310-63f7-4215-bf4e-2df79c0123e3)
