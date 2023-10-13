@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
                         onLongPress: (){
                           showDialog(context: context, builder: (context){
                             return AlertDialog(
-                              title: const Text('Action'),
+                              title: const Text('Alert'),
                               content: Column(
                                 mainAxisSize: MainAxisSize.min,
                                 children: [
